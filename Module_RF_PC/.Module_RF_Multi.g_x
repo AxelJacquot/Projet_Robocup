@@ -1,0 +1,41 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/Cpu.h" FileDate="2018-06-06, 09:21:48" FileAge="1528269708000" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2018-06-06, 09:21:48" FileAge="1528269708000" FileType="45637" />
+      <File Name="Documentation/Module_RF_Multi.txt" FileDate="2018-06-13, 17:46:22" FileAge="1528904782051" FileType="3072" />
+      <File Name="Generated_Code/TPM1.h" FileDate="2018-06-14, 14:20:35" FileAge="1528978835380" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2018-06-13, 17:46:21" FileAge="1528904781924" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/PTB.h" FileDate="2018-06-06, 14:11:30" FileAge="1528287090000" FileType="45637" CompNumb="10" />
+      <File Name="Generated_Code/TPM1.c" FileDate="2018-06-14, 14:20:35" FileAge="1528978835404" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/PTB.c" FileDate="2018-06-06, 14:11:30" FileAge="1528287090000" FileType="45637" CompNumb="10" />
+      <File Name="Generated_Code/SPI.h" FileDate="2018-06-06, 09:21:48" FileAge="1528269708000" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2018-06-06, 09:21:48" FileAge="1528269708000" FileType="45637" />
+      <File Name="Generated_Code/SCI.h" FileDate="2018-06-14, 14:36:15" FileAge="1528979775997" FileType="45637" CompNumb="8" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2018-06-06, 09:21:48" FileAge="1528269708000" FileType="8" CompNumb="4" />
+      <File Name="Generated_Code/SPI.c" FileDate="2018-06-06, 09:21:48" FileAge="1528269708000" FileType="45637" CompNumb="9" />
+      <File Name="Documentation/Module_RF_Multi_SIGNALS.txt" FileDate="2018-06-15, 10:52:19" FileAge="1529052739939" FileType="3072" />
+      <File Name="Generated_Code/SCI.c" FileDate="2018-06-14, 14:36:16" FileAge="1528979776015" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2018-06-13, 17:46:21" FileAge="1528904781940" FileType="45637" CompNumb="4" />
+      <File Name="Sources/main.c" FileDate="2018-06-14, 14:42:36" FileAge="1528980156219" FileType="128" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2018-06-06, 09:21:48" FileAge="1528269708000" FileType="45637" />
+      <File Name="Documentation/Module_RF_Multi_Settings.xml" FileDate="2018-06-14, 14:36:16" FileAge="1528979776080" FileType="3072" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2018-06-06, 09:21:48" FileAge="1528269708000" FileType="45637" />
+      <File Name="Generated_Code/PTA.h" FileDate="2018-06-06, 09:26:02" FileAge="1528269962000" FileType="45637" CompNumb="11" />
+      <File Name="Sources/Events.h" FileDate="2018-06-13, 17:46:21" FileAge="1528904781940" FileType="131328" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2018-06-06, 09:21:48" FileAge="1528269708000" FileType="45637" />
+      <File Name="Generated_Code/PTA.c" FileDate="2018-06-06, 09:26:02" FileAge="1528269962000" FileType="45637" CompNumb="11" />
+      <File Name="Sources/Events.c" FileDate="2018-06-06, 09:21:48" FileAge="1528269708000" FileType="131328" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>23</CodeGenReference>
+</CodeGenerationInfo>
